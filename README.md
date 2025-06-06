@@ -4,4 +4,4 @@ You have a starting hand of 7 known cards and 1 unknown. You can once reshuffle 
 
 Test is made using a simple Monte Carlo simulation.
 
-Result is 44 lands.
+Result is 41 lands. This is a fine answer considering ramp and mana rocks has not been considered.
